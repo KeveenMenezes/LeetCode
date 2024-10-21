@@ -12,6 +12,7 @@ public class CountMaxOrSubsetsQuest
         }
 
         return CountSubsets(nums, 0, 0, maxOr);
+
     }
 
     private int CountSubsets(int[] nums, int index, int currentOr, int maxOr)
