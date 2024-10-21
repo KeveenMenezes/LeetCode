@@ -1,0 +1,13 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar diretórios
+node_modules/
+dist/
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+
+# Ignorar arquivos de configuração
+config/*.json
