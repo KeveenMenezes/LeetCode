@@ -1,0 +1,14 @@
+C:\Estudos\LeetCode\bin\Debug\net8.0\LeetCode.exe
+C:\Estudos\LeetCode\bin\Debug\net8.0\LeetCode.deps.json
+C:\Estudos\LeetCode\bin\Debug\net8.0\LeetCode.runtimeconfig.json
+C:\Estudos\LeetCode\bin\Debug\net8.0\LeetCode.dll
+C:\Estudos\LeetCode\bin\Debug\net8.0\LeetCode.pdb
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.AssemblyInfoInputs.cache
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.AssemblyInfo.cs
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.csproj.CoreCompileInputs.cache
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.dll
+C:\Estudos\LeetCode\obj\Debug\net8.0\refint\LeetCode.dll
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.pdb
+C:\Estudos\LeetCode\obj\Debug\net8.0\LeetCode.genruntimeconfig.cache
+C:\Estudos\LeetCode\obj\Debug\net8.0\ref\LeetCode.dll
