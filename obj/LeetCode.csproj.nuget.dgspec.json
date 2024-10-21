@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Estudos\\LeetCode\\LeetCode.csproj": {}
+    "C:\\Estudos\\LeetCode\\LeetCode.csproj": {}
   },
   "projects": {
-    "c:\\Estudos\\LeetCode\\LeetCode.csproj": {
+    "C:\\Estudos\\LeetCode\\LeetCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Estudos\\LeetCode\\LeetCode.csproj",
+        "projectUniqueName": "C:\\Estudos\\LeetCode\\LeetCode.csproj",
         "projectName": "LeetCode",
-        "projectPath": "c:\\Estudos\\LeetCode\\LeetCode.csproj",
+        "projectPath": "C:\\Estudos\\LeetCode\\LeetCode.csproj",
         "packagesPath": "C:\\Users\\keveen.menezes\\.nuget\\packages\\",
-        "outputPath": "c:\\Estudos\\LeetCode\\obj\\",
+        "outputPath": "C:\\Estudos\\LeetCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
